@@ -1,0 +1,36 @@
+.header {
+    background-color: #69676a;
+    padding: 20px;
+    text-align: center;
+  }
+ 
+  table, th, td {
+    border:5px solid black;
+    margin-top: 150px;
+    color: black;
+    text-align: center;
+
+  }
+  table.center {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.ph {
+    border: 1px solid gray;
+    margin :right 100px;
+
+  }
+  
+  .ch {
+    text-align: center;
+    text-transform: uppercase;
+    color: #0eec16;
+  }
+  
+  
+  p {
+    text-indent: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+  }
