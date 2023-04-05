@@ -26,11 +26,11 @@ else {
 
 
 
-let answers =[Answer1,Answer2,Answer3];
+
 let Answer1 = prompt("are you ok");
 let Answer2 = prompt("do you like js until now");
 let Answer3 = prompt("did you practise code as alone ");
-
+let answers =[Answer1,Answer2,Answer3];
 for(let i = 0;  i<answers.length; i++){
 
   console.log(answers[i]);
